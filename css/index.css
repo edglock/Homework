@@ -1,0 +1,9 @@
+h1 {
+    color: red;
+}
+#selected {
+    border: 1px solid blue;
+}
+p:hover {
+    color:aquamarine;
+}
